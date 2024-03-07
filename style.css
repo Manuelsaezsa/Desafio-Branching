@@ -58,3 +58,9 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+.meme{
+  color: aquamarine;
+  font-size: 50px;
+  text-align: center;
+}
